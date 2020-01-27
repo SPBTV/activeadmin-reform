@@ -21,7 +21,7 @@ Gem::Specification.new do |spec|
   spec.add_dependency 'rails', ['>= 4.0.0', '< 6.0']
   spec.add_dependency 'activeadmin', ['>= 1.4.3', '< 3.0']
   spec.add_dependency 'disposable', '>= 0.2.0'
-  spec.add_dependency 'reform', '<= 2.3.0.rc1'
+  spec.add_dependency 'reform', '<= 2.3.0.rc2'
   spec.add_dependency 'reform-rails', '<= 0.2.0.rc2'
 
   spec.add_development_dependency 'appraisal', '2.2.0'
